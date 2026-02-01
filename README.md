@@ -52,4 +52,7 @@ It provides a **360° view of customer experience**, answering:
 
 ## 🛠 Tools Used  
 - **Tableau** – Data visualization & dashboard design  
-- Data cleaning and preparation techniques  
+- Data cleaning and preparation techniques
+
+
+![image alt](https://github.com/MohammadHammoudeh14/British-Airways-Tableau/blob/32de1832dd1cf6eee9772b95f3bcb04c5f8b625a/Screen%20Shot%202026-02-01%20at%208.57.41%20PM.png)
