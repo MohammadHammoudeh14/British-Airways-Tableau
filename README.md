@@ -1,5 +1,7 @@
 # ✈️ British Airways Customer Experience Analysis (Tableau)
 
+-- Below is a screenshot of the interactive dashboard created in this project.
+
 ## 📌 Project Overview  
 This project analyzes **British Airways customer review data** to understand the key factors influencing passenger satisfaction. Using Tableau, I built an **interactive dashboard** that allows decision-makers to explore performance trends and identify operational and service improvement areas.
 
